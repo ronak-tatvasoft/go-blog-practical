@@ -26,5 +26,4 @@ To setup this project in local please follow the below-mentioned steps,
 
 8. We have total 6 APIs, you can find postman collection from this link. https://drive.google.com/file/d/1cTOFVHToV6IHeKsMUdByDNMKf3Qe1dUR/view?usp=sharing
 
-9. We have all test cases for unit test in folder `/test`
-	and then execute command `go test -v`. it will display the test cases are failed or passed.
+9. We have all test cases for unit test in folder `/test`, go in that folder and then execute command `go test -v`. it will display the test cases are failed or passed.
